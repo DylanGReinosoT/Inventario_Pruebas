@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8CCE88-3ADA-43FC-9615-4035027383CA}|TestInventario\\TestInventario.csproj|c:\\users\\admin\\source\\repos\\inventarioprueba\\testinventario\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8CCE88-3ADA-43FC-9615-4035027383CA}|TestInventario\\TestInventario.csproj|solutionrelative:testinventario\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|c:\\users\\admin\\source\\repos\\inventarioprueba\\inventarioprueba\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|solutionrelative:inventarioprueba\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|c:\\users\\admin\\source\\repos\\inventarioprueba\\inventarioprueba\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|solutionrelative:inventarioprueba\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|c:\\users\\admin\\source\\repos\\inventarioprueba\\inventarioprueba\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|solutionrelative:inventarioprueba\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|c:\\users\\admin\\source\\repos\\inventarioprueba\\inventarioprueba\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|solutionrelative:inventarioprueba\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|c:\\users\\admin\\source\\repos\\inventarioprueba\\inventarioprueba\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972FB018-032E-42DA-BC7F-2FAFD03D85F6}|InventarioPrueba\\InventarioPrueba.csproj|solutionrelative:inventarioprueba\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\TestInventario\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestInventario\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\TestInventario\\UnitTest1.cs",
+              "RelativeToolTip": "TestInventario\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:44:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "InventarioPrueba\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "InventarioPrueba\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:50:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "InventarioPrueba\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "InventarioPrueba\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:49:53.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "InventarioPrueba\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "InventarioPrueba\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:49:35.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "InventarioPrueba\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "InventarioPrueba\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:44:24.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventarioPrueba\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InventarioPrueba\\InventarioPrueba\\AppDbContext.cs",
+              "RelativeToolTip": "InventarioPrueba\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:00:07.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

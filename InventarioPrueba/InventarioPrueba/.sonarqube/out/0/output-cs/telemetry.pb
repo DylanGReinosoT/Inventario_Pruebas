@@ -1,0 +1,1 @@
+kRUC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\InventarioPrueba.csproj¢net8.0òCSharp12

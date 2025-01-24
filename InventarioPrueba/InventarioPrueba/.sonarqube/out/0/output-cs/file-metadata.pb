@@ -1,0 +1,16 @@
+Ž
+‚C:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\obj\Debug\net8.0\InventarioPrueba.MvcApplicationPartsAssemblyInfo.csutf-8z
+oC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\obj\Debug\net8.0\InventarioPrueba.AssemblyInfo.csutf-8ˆ
+}C:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8|
+qC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\obj\Debug\net8.0\InventarioPrueba.GlobalUsings.g.csutf-8Y
+PC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\WeatherForecast.csutf-8Q
+HC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Program.csutf-8p
+eC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Migrations\AppDbContextModelSnapshot.csutf-8|
+qC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Migrations\20250124002958_InitialCreate.Designer.csutf-8q
+hC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Migrations\20250124002958_InitialCreate.csutf-8o
+fC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Controllers\WeatherForecastController.csutf-8e
+\C:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Controllers\VentaController.csutf-8h
+_C:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Controllers\ProductoController.csutf-8g
+^C:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Controllers\ClienteController.csutf-8i
+`C:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\Controllers\CategoriaController.csutf-8V
+MC:\Users\Admin\source\repos\InventarioPrueba\InventarioPrueba\AppDbContext.csutf-8

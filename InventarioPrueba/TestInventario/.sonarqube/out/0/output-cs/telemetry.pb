@@ -1,0 +1,1 @@
+gRQC:\Users\Admin\source\repos\InventarioPrueba\TestInventario\TestInventario.csproj¢net8.0òCSharp12
